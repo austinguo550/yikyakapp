@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\James\AndroidStudioProjects\YikYakApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\James\AndroidStudioProjects\YikYakApp\app\build\intermediates\pre-dexed\debug\classes-4e6990d13d8550e056ee91db65112d805c24250a.jar" />
+    </item>
+    <item
+        jar="C:\Users\James\Downloads\swipe_tab_view\MaterialSlidingTabs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\James\Downloads\swipe_tab_view\MaterialSlidingTabs\app\build\intermediates\pre-dexed\debug\classes-24ce3f8acce07bf39844b0ad95c6fd00c933ab09.jar" />
+    </item>
+    <item
+        jar="C:\Users\James\Downloads\swipe_tab_view\MaterialSlidingTabs\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\James\Downloads\swipe_tab_view\MaterialSlidingTabs\app\build\intermediates\pre-dexed\debug\classes-ec45f053a8196bb97bfa6ce0509db3bc77d3739d.jar" />
+    </item>
+    <item
+        jar="C:\Users\James\Downloads\swipe_tab_view\MaterialSlidingTabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\James\Downloads\swipe_tab_view\MaterialSlidingTabs\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-a0d54d573a340980a0f983de6022eb555692bdea.jar" />
+    </item>
+    <item
+        jar="C:\Users\James\AndroidStudioProjects\YikYakApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\James\AndroidStudioProjects\YikYakApp\app\build\intermediates\pre-dexed\debug\classes-c7f8528a7a0fdf325f3d6aa2b74ba5460f6d829a.jar" />
+    </item>
+    <item
+        jar="C:\Users\James\AndroidStudioProjects\YikYakApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\James\AndroidStudioProjects\YikYakApp\app\build\intermediates\pre-dexed\debug\classes-f3ee175a5c83dd422e9a7bd0f1392deb0adc5dbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\James\AndroidStudioProjects\YikYakApp\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\James\AndroidStudioProjects\YikYakApp\app\build\intermediates\pre-dexed\debug\classes-0424e2172ef494b6d6c599bba69ee612a5309de8.jar" />
+    </item>
+    <item
+        jar="C:\Users\James\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\James\Downloads\swipe_tab_view\MaterialSlidingTabs\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-25011fcec93b0b8bbd6e00775be1afcbfa1af07f.jar" />
+    </item>
+    <item
+        jar="C:\Users\James\Downloads\swipe_tab_view\MaterialSlidingTabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\James\Downloads\swipe_tab_view\MaterialSlidingTabs\app\build\intermediates\pre-dexed\debug\classes-cea554f960d9639be9cc8e7b42c96f95307bf1da.jar" />
+    </item>
+    <item
+        jar="C:\Users\James\Downloads\swipe_tab_view\MaterialSlidingTabs\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\James\Downloads\swipe_tab_view\MaterialSlidingTabs\app\build\intermediates\pre-dexed\debug\classes-3c9d6a4dc352aef4e36e4fe6494d8a40d29fb2b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\James\AndroidStudioProjects\YikYakApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\James\AndroidStudioProjects\YikYakApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-01476ac6e3014b61c4b714777dd640847fe07ed8.jar" />
+    </item>
+
+</items>

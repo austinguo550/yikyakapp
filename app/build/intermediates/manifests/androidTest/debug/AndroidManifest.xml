@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="austinguo550.yikyakapp.test">
+
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="22" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="austinguo550.yikyakapp"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for austinguo550.yikyakapp"/>
+</manifest>
